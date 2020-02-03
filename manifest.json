@@ -1,0 +1,10 @@
+{
+	"name":"Hackathon",
+	"version":"1.0",
+	"description":"Click on the icon to Go to our Website.",
+	"manifest_version":2,
+	"browser_action":{
+		"default_icon":"Hicon.png",
+		"default_popup":"mypopup.html"
+	}
+}
